@@ -1,1 +1,1 @@
-"# stockexchange" 
+This application simulates a real-life stock exchange. It allows users to enter and cancel orders and quotes for listed stocks, and also to trade those stocks when the prices match. This was developed as my final project for Object Oriented Software Development at DePaul University.
